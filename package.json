@@ -1,0 +1,32 @@
+{
+  "name": "rn-firebase-notification",
+  "version": "1.0.0",
+  "description": "Firebase notification for android applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rn-firebase-setup": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit417/rn-firebase-notification.git"
+  },
+  "keywords": [
+    "firebase",
+    "android",
+    "react",
+    "react-native",
+    "rn-firebase"
+  ],
+  "author": "Ankit Acharya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankit417/rn-firebase-notification/issues"
+  },
+  "homepage": "https://github.com/ankit417/rn-firebase-notification#readme",
+  "dependencies": {
+    "npm": "^6.14.8"
+  }
+}
